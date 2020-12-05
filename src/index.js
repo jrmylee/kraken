@@ -6,6 +6,9 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <div className="app-header">
+      <h1>Vivace</h1>
+    </div>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
